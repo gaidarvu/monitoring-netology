@@ -90,3 +90,7 @@ SLA = (summ_2xx_requests + summ_1xx_requests + summ_3xx_requests)/summ_all_reque
 - Pull: Prometheus, Nagios
 - Push: TICK
 - Гибридные: Zabbix, VictoriaMetrics
+
+### 7. Окно интерфейса chronograf
+
+![alt text](image.png)
