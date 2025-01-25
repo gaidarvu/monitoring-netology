@@ -94,3 +94,21 @@ SLA = (summ_2xx_requests + summ_1xx_requests + summ_3xx_requests)/summ_all_reque
 ### 7. Окно интерфейса chronograf
 
 ![alt text](image.png)
+
+### 8. Метрики CPU
+
+FILL 4
+
+![alt text](fill.png)
+
+1 min
+
+![alt text](1m.png)
+
+5 min
+
+![alt text](5s.png)
+
+### 9. Метрики docker
+
+![alt text](docker.png)
