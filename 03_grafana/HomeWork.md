@@ -8,7 +8,7 @@ Cкриншот веб-интерфейса grafana со списком подк
 
 ### 2.
  
-promql-запросы для выдачи этих метрик:
+promql-запросы для выдачи метрик:
 
 cpu util: ```100 - (avg(rate(node_cpu_seconds_total{mode="idle", instance="10.3.1.10:9100"}[5m])) by (instance) * 100)```
 
